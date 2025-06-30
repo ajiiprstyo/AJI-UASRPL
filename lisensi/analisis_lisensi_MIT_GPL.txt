@@ -1,0 +1,30 @@
+
+Analisis Telaah Lisensi Proyek Asli (MIT/GPL)
+
+1. Lisensi MIT
+   - Lisensi MIT adalah salah satu lisensi open-source yang paling sederhana dan permisif.
+   - Poin-poin penting:
+     - Kebebasan untuk menggunakan, menyalin, dan memodifikasi perangkat lunak tanpa batasan.
+     - Kewajiban untuk menyertakan salinan lisensi MIT dan atribusi kepada pemilik asli dalam semua salinan atau bagian substansial dari perangkat lunak.
+     - Perangkat lunak disediakan "sebagaimana adanya", tanpa jaminan apapun.
+   - Kompatibilitas Pengubahan:
+     - Pengubahan yang dilakukan pada proyek yang dilisensikan di bawah MIT dapat dilakukan tanpa masalah, asalkan atribusi dan salinan lisensi MIT disertakan dalam distribusi.
+     - Anda bebas untuk menambahkan fitur, memperbaiki bug, atau mengubah lisensi proyek Anda sendiri, selama mematuhi ketentuan atribusi.
+
+2. Lisensi GPL (General Public License)
+   - Lisensi GPL adalah lisensi open-source yang lebih ketat dibandingkan dengan MIT.
+   - Poin-poin penting:
+     - Kebebasan untuk menggunakan, menyalin, dan memodifikasi perangkat lunak.
+     - Kewajiban untuk mendistribusikan perangkat lunak yang dimodifikasi di bawah lisensi GPL yang sama.
+     - Kewajiban untuk menyertakan salinan lisensi GPL dan atribusi kepada pemilik asli.
+     - Anda harus menyediakan kode sumber dari perangkat lunak yang dimodifikasi jika mendistribusikannya.
+   - Kompatibilitas Pengubahan:
+     - Pengubahan yang dilakukan pada proyek yang dilisensikan di bawah GPL harus didistribusikan di bawah lisensi GPL yang sama.
+     - Anda tidak dapat mengubah lisensi menjadi lisensi yang lebih ketat atau lebih permisif.
+     - Kode sumber dari perubahan yang dibuat harus disediakan jika perangkat lunak yang dimodifikasi didistribusikan.
+
+Kesimpulan:
+- Untuk Lisensi MIT: Pengubahan yang dilakukan kompatibel, asalkan atribusi dan salinan lisensi MIT disertakan.
+- Untuk Lisensi GPL: Pengubahan yang dilakukan juga kompatibel, tetapi harus didistribusikan di bawah lisensi GPL yang sama dan menyediakan kode sumber.
+
+Penting untuk memahami ketentuan lisensi yang berlaku dan memastikan bahwa semua persyaratan yang ditetapkan dipatuhi sebelum melakukan pengubahan.
