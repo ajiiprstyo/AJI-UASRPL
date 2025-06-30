@@ -1,0 +1,47 @@
+{
+  "id": "ddc79326-34e1-453d-a757-b6bafbf4fcd2",
+  "version": "2.0",
+  "name": "AJI-UASRPL",
+  "url": "https://cautious-computing-machine-x59r4565vv46hvq5x-8080.app.github.dev",
+  "tests": [{
+    "id": "e78cbc27-b32b-4bc4-aa47-47363190d1c2",
+    "name": "Uji coba terserah",
+    "commands": [{
+      "id": "d598d545-1ed1-45de-a080-7efba816a067",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0766c9fd-b104-430a-96bd-b067b608fed0",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x691",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "456d572f-b70c-4e14-9b0c-7a674390fbc7",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continue')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "70d3c722-1796-4660-af30-912696bed8ad",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["e78cbc27-b32b-4bc4-aa47-47363190d1c2"]
+  }],
+  "urls": ["https://cautious-computing-machine-x59r4565vv46hvq5x-8080.app.github.dev/"],
+  "plugins": []
+}
