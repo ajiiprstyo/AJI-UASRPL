@@ -1,0 +1,15 @@
+Perhitungan Rata-rata Jawaban SUS - 5 Responden
+Skala: 1 (Sangat Tidak Setuju) - 5 (Sangat Setuju)
+
+Pernyataan 1: Jawaban = [5, 4, 3, 4, 5] => Rata-rata = 4.20
+Pernyataan 2: Jawaban = [1, 2, 2, 1, 1] => Rata-rata = 1.40
+Pernyataan 3: Jawaban = [4, 5, 4, 5, 4] => Rata-rata = 4.40
+Pernyataan 4: Jawaban = [1, 1, 2, 1, 1] => Rata-rata = 1.20
+Pernyataan 5: Jawaban = [5, 4, 4, 5, 4] => Rata-rata = 4.40
+Pernyataan 6: Jawaban = [1, 2, 2, 1, 1] => Rata-rata = 1.40
+Pernyataan 7: Jawaban = [5, 4, 3, 4, 5] => Rata-rata = 4.20
+Pernyataan 8: Jawaban = [1, 1, 2, 1, 1] => Rata-rata = 1.20
+Pernyataan 9: Jawaban = [5, 4, 3, 5, 4] => Rata-rata = 4.20
+Pernyataan 10: Jawaban = [2, 2, 3, 2, 2] => Rata-rata = 2.20
+
+Skor SUS akhir (rerata semua responden): 85.00 dari 100
